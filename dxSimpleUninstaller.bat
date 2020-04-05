@@ -1,0 +1,1 @@
+Powershell.exe -windowstyle hidden -nologo -NoProfile -executionpolicy remotesigned -File %~dp0dxSimpleUninstaller.ps1
